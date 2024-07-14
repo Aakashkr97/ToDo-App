@@ -1,1 +1,1 @@
-# simple-toDo-App
+# simple-todo-App
